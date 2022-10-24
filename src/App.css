@@ -1,0 +1,9 @@
+.table {
+  overflow-y: scroll;
+}
+
+#products-table {
+  width: 200px;
+  height: 400px;
+  overflow: scroll;
+}
